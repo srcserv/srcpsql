@@ -1,3 +1,4 @@
+ //check for .gitignore
      0 Mon Aug 08 11:53:58 PDT 2011 META-INF/
    156 Mon Aug 08 11:53:56 PDT 2011 META-INF/MANIFEST.MF
      0 Tue Nov 23 13:31:36 PST 2010 icons/

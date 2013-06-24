@@ -1,2 +1,0 @@
-add new file and add to git and
-commit it and push to github
